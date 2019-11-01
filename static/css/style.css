@@ -1,0 +1,22 @@
+body {
+    background: black;
+    font-family: Meiryo;
+}
+
+p {
+    color: white;
+}
+
+.temperature_and_humidity {
+    display: inline-block;
+    height: 100px;
+    widows: 300px;
+    margin: 30px;
+    background-color: #252A3B;
+    border-radius: 10px;
+}
+
+.temperature_and_humidity_string {
+    color: #717784;
+    padding-top: 40px;
+}
